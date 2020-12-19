@@ -12,5 +12,3 @@
     <meta name="description"
           content="Sarvoday Farms is a reliable name from Dehradun (Uttarakhand) that is operational in the poultry business, and involved in the trading of Kadaknath Chickens. ">
 <title>Sarvoday Farms</title>
-
-?>
