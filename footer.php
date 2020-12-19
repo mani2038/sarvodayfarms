@@ -5,7 +5,7 @@
  * Date: 19-12-2020
  * Time: 11:07
  */
-
+?>
 <div class="site-footer_farm_image"><img src="images/site-footer-farm.png"
                     alt="Farm Image"></div>
             <div class="container">

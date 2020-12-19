@@ -5,6 +5,7 @@
  * Date: 19-12-2020
  * Time: 11:02
  */
+?>
 <nav class="header-navigation stricky">
                     <div class="container clearfix">
                         <!-- Brand and toggle get grouped for better mobile display -->
