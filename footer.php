@@ -16,8 +16,7 @@
                                 <h3>About</h3>
                             </div>
                             <div class="footer-widget_about_text">
-                                <p>Lorem ipsum dolor sit amet, adipiscing elit. Nulla placerat posuere dui. Pellentesque
-                                    venenatis sem non lacus ac auctor.</p>
+                                <p>Sarvoday Farms is a reliable name from Dehradun (Uttarakhand) that is operational in the poultry business, and involved in the trading of Kadaknath Chickens. </p>
                             </div>
 
                         </div>
@@ -29,7 +28,7 @@
                             </div>
                             <ul class="footer-widget__links-list list-unstyled">
                                 <li><a href="about.php">About Us</a></li>
-                                <li><a href="products.html">Products</a></li>
+                                <li><a href="products.php">Products</a></li>
 
                                 <li><a href="contact.php">Contact</a></li>
                             </ul>
@@ -46,7 +45,7 @@
                                 <a href="mailto:sarvodayfarms@gmail.com
 ">sarvodayfarms@gmail.com
 </a><br>
-                                <a href="tel:7060009851">+91-7060009851</a>
+                                <a href="tel:7060009851">+91-7060009851</a> | <a href="tel:7060009163">+91-7060009163</a>
                                 <div class="site-footer__social">
                                      <a href="https://www.facebook.com/sarvoday.farms.3/" target="_black"><i class="fa fa-facebook-square"></i></a>
                             <a href="https://mobile.twitter.com/sarvodayfarms"  target="_black"><i class="fa fa-twitter"></i></a>

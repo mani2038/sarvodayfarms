@@ -185,7 +185,7 @@
                         <div class="service_1_single wow fadeInUp">
                             <div class="content">
                                 <h3>Male Live Kadaknath Chicken</h3>
-                                <p>Lorem ipsum is simply are many variations of pass of majority.</p>
+                                <p>Kadaknath, also called Kali Masi, is an Indian breed of chicken.</p>
                             </div>
                             <div class="service_1_img">
                                 <img src="images/service-1-img-1.jpg" alt="Service Image">
@@ -199,7 +199,7 @@
                         <div class="service_1_single wow fadeInUp" data-wow-delay="300ms">
                             <div class="content">
                                 <h3>Kadaknath Chicken with Skin</h3>
-                                <p>Lorem ipsum is simply are many variations of pass of majority.</p>
+                                <p>Kadaknath chicken contains 25-27% of protein in comparison with other breeds of chickens.</p>
                             </div>
                             <div class="service_1_img">
                                 <img src="images/service-1-img-2.jpg" alt="Service Image">
@@ -213,7 +213,7 @@
                         <div class="service_1_single wow fadeInUp" data-wow-delay="600ms">
                             <div class="content">
                                 <h3>Kadaknath Hatching Eggs</h3>
-                                <p>Lorem ipsum is simply are many variations of pass of majority.</p>
+                                <p>Get Hatching Eggs at best price from Hatching Eggs Retailers, sellers.</p>
                             </div>
                             <div class="service_1_img">
                                 <img src="images/service-1-img-3.jpg" alt="Service Image">
@@ -227,7 +227,7 @@
                         <div class="service_1_single wow fadeInUp" data-wow-delay="600ms">
                             <div class="content">
                                 <h3>Kadaknath Day Old Chicks</h3>
-                                <p>Lorem ipsum is simply are many variations of pass of majority.</p>
+                                <p>The best, leading kadaknath poultry farm website lists kadaknath chicken for sale.</p>
                             </div>
                             <div class="service_1_img">
                                 <img src="images/service-1-img-4.jpg" alt="Service Image">

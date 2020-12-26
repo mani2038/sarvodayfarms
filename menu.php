@@ -12,16 +12,16 @@
 
                         <div class="main-nav__main-navigation">
                             <ul class=" main-nav__navigation-box">
-                                <li class="dropdown ">
+                                <li class="dropdown current">
                                     <a href="index.php">Home</a>
 
                                 </li>
-                                <li class="dropdown current">
+                                <li class="dropdown ">
                                     <a href="about.php">About Us</a>
 
                                 </li>
                                 <li class="dropdown">
-                                    <a href="products.html">Products</a>
+                                    <a href="products.php">Products</a>
 
                                 </li>
 
