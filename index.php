@@ -158,10 +158,7 @@
                                     <p>Market Covered</p>
                                 </div>
                             </div>
-                            <div class="bottom_text">
-                                <p> If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't
-                                    anything embarrassing hidden in the middle of text.</p>
-                            </div>
+                           
                             <div class="about1__button-block">
                                 <a href="about.php" class="thm-btn about_one__btn">About </a>
                             </div>
