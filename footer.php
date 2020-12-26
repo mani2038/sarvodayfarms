@@ -28,7 +28,7 @@
                             </div>
                             <ul class="footer-widget__links-list list-unstyled">
                                 <li><a href="about.php">About Us</a></li>
-                                <li><a href="products.php">Products</a></li>
+                               <!-- <li><a href="products.php">Products</a></li> -->
 
                                 <li><a href="contact.php">Contact</a></li>
                             </ul>

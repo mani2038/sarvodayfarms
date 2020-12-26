@@ -20,10 +20,10 @@
                                     <a href="about.php">About Us</a>
 
                                 </li>
-                                <li class="dropdown">
+                                <!--<li class="dropdown">
                                     <a href="products.php">Products</a>
 
-                                </li>
+                                </li> -->
 
                                 <li>
                                     <a href="contact.php">Contact</a>
